@@ -10,7 +10,7 @@ Visit https://www.dropbox.com/developers/apps/create and choose the following
 - App folder– Access to a single folder created specifically for your app.
 - Name: "My Backup"
 
-On the next step on the app's settings generate Access Token 
+On the next step on the app's settings generate Access Token and replace it inside the `.sh` file `ACCESSTOKEN=`
 
 ## Usage 
 
